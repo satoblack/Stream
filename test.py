@@ -9,7 +9,7 @@ from pathlib import Path
 MEDIA_DIR = "/teamspace/studios/this_studio//Stream"  # Termux, Linux veya Windows'ta geçerli konumu kullanabilirsiniz
 VIDEO_FILE = os.path.join(MEDIA_DIR, "Loop.mp4")
 AUDIO_FILE = os.path.join(MEDIA_DIR, "Music.aac")
-DRIVE_VIDEO_URL = "https://drive.google.com/file/d/1xzIcYgyuJqna28gl-jwTUmJJvRydY9wI/view?usp=drive_link
+DRIVE_VIDEO_URL = "https://drive.google.com/file/d/1xzIcYgyuJqna28gl-jwTUmJJvRydY9wI/view?usp=drive_link"
 DRIVE_AUDIO_URL = "https://drive.google.com/file/d/1YGinMwVJK90QxCZM-F9NkiwXsyThUoAx/view?usp=drive_link"
 
 # Komut çalıştırıcı
