@@ -1,0 +1,6 @@
+pkg update && pkg upgrade
+pkg install python
+pip install gdown
+pkg install curl
+pkg install ffmpeg
+termux-setup-storage
