@@ -7,8 +7,8 @@ from pathlib import Path
 
 # Sabit dosya konumları ve Drive linkleri (Bu konumları daha sonra değiştirebilirsiniz)
 MEDIA_DIR = "C:/Stream/"  # Termux, Linux veya Windows'ta geçerli konumu kullanabilirsiniz
-VIDEO_FILE = os.path.join(MEDIA_DIR, "x.mp4")
-AUDIO_FILE = os.path.join(MEDIA_DIR, "1.mp3")
+VIDEO_FILE = os.path.join(MEDIA_DIR, "Loop.mp4")
+AUDIO_FILE = os.path.join(MEDIA_DIR, "Music.mp3")
 DRIVE_VIDEO_URL = "https://drive.google.com/file/d/1p4n5U1uiAN7BUXwxM7ztW3Qb5A5VQOsI/view?usp=drive_link"
 DRIVE_AUDIO_URL = "https://drive.google.com/file/d/1eD4OabgOvZ6ucng_J7T08VUZIVvhdjOS/view?usp=drive_link"
 
