@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 # Sabit dosya konumları ve Drive linkleri (Bu konumları daha sonra değiştirebilirsiniz)
-MEDIA_DIR = "/storage/emulated/0/Download/Stream"  # Termux, Linux veya Windows'ta geçerli konumu kullanabilirsiniz
+MEDIA_DIR = "/storage/emulated/0/Stream/Tokyo2"  # Termux, Linux veya Windows'ta geçerli konumu kullanabilirsiniz
 VIDEO_FILE = os.path.join(MEDIA_DIR, "Loop.mp4")
 AUDIO_FILE = os.path.join(MEDIA_DIR, "Music.aac")
 DRIVE_VIDEO_URL = "https://drive.google.com/file/d/1xzIcYgyuJqna28gl-jwTUmJJvRydY9wI/view?usp=drive_link"
